@@ -38,7 +38,7 @@ Vercel | Render | Railway | Git | GitHub | Postman | VS Code
 |----------|--------------|-------------|------------|
 | 🍔 **Food Del (MERN)** | Full-stack food delivery app with Stripe payments, cart management, and real-time order tracking | React.js, Node.js, Express, MongoDB, JWT, Stripe | [Live Demo](https://food-del.vercel.app) |
 | 🧁 **TNR Sweets Website** | Real-time sweet shop website with menu showcase, contact form, and responsive design | React.js, Tailwind CSS | [Live Demo](https://tnr-sweets.vercel.app) |
-| 🏥 **Apic Hospital Website** | Real-time hospital management and information site with modern UI | React.js, Node.js, Express, MongoDB | [Live Demo](https://apic-hospital.vercel.app) |
+| 🏥 **Apic Hospital Website** | Real-time hospital management and information site with modern UI | React.js, Node.js, Express, MongoDB | [Live Demo](https://tt-hospital.vercel.app) |
 | 👥 **HRMS Application** | Employee management tool for leave, attendance, appraisals, and admin panel | AngularJS, Java, Spring MVC, SQL | [GitHub Repo](https://github.com/your-hrms-repo) |
 | 🚀 **Onboard App (MERN)** | Real-time onboarding and admin dashboard for companies | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | [GitHub Repo](https://github.com/your-onboard-app) |
 
