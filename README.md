@@ -50,7 +50,7 @@ with 3+ years of experience building **real-time, scalable, and intelligent web 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 #### 🤖 AI & Automation Tools
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?logo=google&logoColor=white)
+<!-- ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?logo=google&logoColor=white)
 ![Strich](https://img.shields.io/badge/Strich_AI-20232A?logo=streamlit&logoColor=white)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-4A154B?logo=bolt&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-34A853?logo=google&logoColor=white)
@@ -60,7 +60,7 @@ with 3+ years of experience building **real-time, scalable, and intelligent web 
 ![Make.com](https://img.shields.io/badge/Make.com-5A45FF?logo=make&logoColor=white)
 ![Emergent AI](https://img.shields.io/badge/Emergent_AI-121212?logo=openai&logoColor=white)
 ![API Keys](https://img.shields.io/badge/API_Integrations-009688?logo=api&logoColor=white)
-![LLM Apps](https://img.shields.io/badge/LLM_Apps-000000?logo=ai&logoColor=white)
+![LLM Apps](https://img.shields.io/badge/LLM_Apps-000000?logo=ai&logoColor=white) -->
 
 ---
 
@@ -83,10 +83,10 @@ with 3+ years of experience building **real-time, scalable, and intelligent web 
 
 ### 📊 GitHub Stats
 
-![Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejathondrothu&show_icons=true&theme=radical)  
+<!-- ![Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejathondrothu&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejathondrothu&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=tejathondrothu&theme=radical&hide_border=true)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejathondrothu&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejathondrothu&theme=react-dark)-->
 
 ---
 
